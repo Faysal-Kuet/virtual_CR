@@ -74,6 +74,7 @@ struct ContentView: View {
     }
 }
 
+
 struct NoticeView: View {
     let notice: Notice
     

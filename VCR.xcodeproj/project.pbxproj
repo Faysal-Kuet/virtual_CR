@@ -40,6 +40,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2E17A6F32CEE890000746529 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		2E7FED302CED1316001DDA65 /* VCR.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VCR.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2E7FED332CED1316001DDA65 /* VCRApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VCRApp.swift; sourceTree = "<group>"; };
 		2E7FED352CED1316001DDA65 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -86,6 +87,7 @@
 		2E7FED272CED1316001DDA65 = {
 			isa = PBXGroup;
 			children = (
+				2E17A6F32CEE890000746529 /* README.md */,
 				2E7FED322CED1316001DDA65 /* VCR */,
 				2E7FED432CED1317001DDA65 /* VCRTests */,
 				2E7FED4D2CED1317001DDA65 /* VCRUITests */,

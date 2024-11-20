@@ -1,9 +1,7 @@
 #  VCR
 
-![Screenshot1](./images/p1.png)
+<img src="./images/p1.png" height="600" alt="Screenshot1">
+<img src="./images/p2.png" height="600" alt="Screenshot2">
+<img src="./images/p3.png" height="600" alt="Screenshot3">
+<img src="./images/p4.png" height="600" alt="Screenshot4">
 
-![Screenshot2](./images/p2.png)
-
-![Screenshot3](./images/p3.png)
-
-![Screenshot4](./images/p4.png)

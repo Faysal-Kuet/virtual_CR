@@ -51,7 +51,7 @@ Backend Repo - [Faysal-Kuet/virtual_CR_backend: Backend for CSE 3218 Assignment 
 ## Author
 ```
 Faysal Mahmud
-CSE 2k20
+KUET CSE 2k20
 3rd Year, 2nd Term
 Roll - 2007068
 ```

@@ -14,7 +14,7 @@ Virtual CR is a simple iOS application designed to streamline communication betw
 
 The backend is a simple Node.js server deployed on **Google Cloud**.  I've used Sqlite3 for this simple database.
 
-The Backend is deployed at -  [Class Management Dashboard - api.34.29.68.223.nip.io](https://api.34.29.68.223.nip.io/) 
+The Backend is deployed at -  [Class Management Dashboard - api.34.29.68.223.nip.io](https://api.34.29.68.223.nip.io/)  <br>
 Backend Repo - [Faysal-Kuet/virtual_CR_backend: Backend for CSE 3218 Assignment 1](https://github.com/Faysal-Kuet/virtual_CR_backend)
 
 ### API Routes:
